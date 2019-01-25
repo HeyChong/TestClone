@@ -10,5 +10,6 @@ Test Pull With Error Of Merge -- No Add And Commit
 Must Be Commited Is Ok
 
 Test Rebase
-
+Test Rebase By testMerge
 Test Rebase Again
+
