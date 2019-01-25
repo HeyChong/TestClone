@@ -5,3 +5,6 @@ Merge No Fast Forward By TestMerge And Lyc !!!
 
 
 I`M Doing Some Importent Things
+
+Test Pull With Merge
+
