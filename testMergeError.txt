@@ -1,5 +1,6 @@
 TestMergeError,Are You Ok ?
 Change In TestMergeBranch And Lyc 
 Merge Success !!!
-Test Merge No Fast ForWard By Lyc !!!
+Merge No Fast Forward By TestMerge And Lyc !!!
+
 
