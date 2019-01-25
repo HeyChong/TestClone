@@ -1,0 +1,15 @@
+TestMergeError,Are You Ok ?
+Change In TestMergeBranch And Lyc 
+Merge Success !!!
+Merge No Fast Forward By TestMerge And Lyc !!!
+
+
+I`M Doing Some Importent Things
+
+Test Pull With Error Of Merge -- No Add And Commit
+Must Be Commited Is Ok
+
+Test Rebase
+Test Rebase By testMerge
+Test Rebase Again
+
