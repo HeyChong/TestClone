@@ -9,3 +9,4 @@ I`M Doing Some Importent Things
 Test Pull With Error Of Merge -- No Add And Commit
 Must Be Commited Is Ok
 
+Test Rebase
